@@ -1,0 +1,14 @@
+{
+  "defaultPage" : ["Page404", []],
+  "pages": [
+    ["/Page404",          "Page404", []],
+    ["/",                 "Home",    []],
+    ["/Home",             "Home",    []],
+    ["/learn-jBlock",           "ControllerjBlock",        []],
+    ["/learn-jBlockFile",       "ControllerjBlockFile",    []],
+    ["/learn-parameters/$foo",  "ControllerParameters",    ["2000"]],
+    ["/learn-JS-CSS",           "ControllerJSCSS",         []],
+    ["/learn-models",           "ControllerModels",        []],
+    ["/learn-modules",          "ControllerModules",       []]
+  ]
+}
